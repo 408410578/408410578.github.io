@@ -1,0 +1,42 @@
+#sitebody{
+}
+#top{
+	color: #d68b00;
+        background-color: lightcyan;
+        text-align: center;
+        padding: 10px;
+	font-style: oblique;
+}
+#mid_l{
+	color: #d68b00;
+          text-align: center;
+          font: 20px '標楷體';
+          background-color: lightyellow;
+          padding: 10px;
+          width: 10%;
+	  float: left;
+}
+#mid{
+	color: #d68b00;
+          text-align: center;
+          font: 20px '新細明體';
+          background-color: lightgreen;
+          padding: 10px;
+          width: 90%;
+}
+#mid_r{
+	color: #d68b00;
+          text-align: center;
+          font: 20px '標楷體';
+          background-color: lightyellow;
+          padding: 10px;
+          width: 10%;
+	  float: right;
+}
+#bot{
+	color: #d68b00;
+        background-color: lightcyan;
+        text-align: center;
+        padding: 10px;
+	clear: both;
+}
